@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Corpo
+comment1.params=cor
+comment1.target=Corpo(int)
+comment2.params=x\ y
+comment2.target=void\ setPosition(int,\ int)
+comment3.params=
+comment3.target=Corpo\ getProximo()
+comment4.params=_proximo
+comment4.target=void\ setProximo(Corpo)
+numComments=5

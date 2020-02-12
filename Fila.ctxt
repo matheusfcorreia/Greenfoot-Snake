@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Fila
+comment1.params=
+comment1.target=Fila()
+comment2.params=c
+comment2.target=void\ enfileirar(Corpo)
+comment3.params=
+comment3.target=void\ desenfileirar()
+comment4.params=
+comment4.target=int\ getSize()
+comment5.params=
+comment5.target=Corpo\ getPrimeiro()
+comment6.params=
+comment6.target=Corpo\ getUltimo()
+comment7.params=
+comment7.target=boolean\ vazio()
+numComments=8

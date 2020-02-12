@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=WorldSnake
+comment1.params=corFundo\ corCobra\ _tamanho\ velocidade
+comment1.target=WorldSnake(int,\ int,\ int,\ float)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=corCobra\ velocidade\ tamanho
+comment3.target=void\ start(int,\ float,\ int)
+comment4.params=corFundo
+comment4.target=void\ setBackground(int)
+comment5.params=
+comment5.target=void\ gameOver()
+comment6.params=corCobra\ x\ y
+comment6.target=void\ addCorpo(int,\ int,\ int)
+comment7.params=
+comment7.target=void\ addComida()
+comment8.params=x\ y\ rotation
+comment8.target=void\ moveCobra(int,\ int,\ int)
+comment9.params=title\ tam\ posX\ posY
+comment9.target=void\ setText(java.lang.String,\ int,\ int,\ int)
+numComments=10

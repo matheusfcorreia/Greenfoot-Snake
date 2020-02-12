@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Menu
+comment0.text=\n\ Write\ a\ description\ of\ class\ Menu\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Menu()
+comment2.params=tamanho\ velocidade
+comment2.target=void\ menuTexto(int,\ java.lang.String)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=title\ tam\ posX\ posY
+comment4.target=void\ setText(java.lang.String,\ int,\ int,\ int)
+comment5.params=corCobra
+comment5.target=void\ setCorCobra(int)
+comment6.params=corFundo
+comment6.target=void\ setCorFundo(int)
+comment7.params=_vel\ _velocidade
+comment7.target=void\ setVelocidade(java.lang.String,\ float)
+comment8.params=_tamanho
+comment8.target=void\ setTamanho(int)
+numComments=9
